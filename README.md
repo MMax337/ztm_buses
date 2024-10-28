@@ -1,5 +1,28 @@
 # ZTM Buses Package
 
+## Visualizations
+<table>
+  <tr>
+    <td align="center">
+      <h3>Heatmap</h3>
+      <img src="https://github.com/MMax337/ztm_buses/blob/main/readme_images/heatmap.png" width="500" />
+    </td>
+    <td align="center">
+      <h3>Punctuality</h3>
+      <img src="https://github.com/MMax337/ztm_buses/blob/main/readme_images/punctuality.png" width="500" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Scatterplot</h3>
+      <img src="https://github.com/MMax337/ztm_buses/blob/main/readme_images/scatterplot.png" width="500" />
+    </td>
+    <td align="center">
+      <h3>Top Delays</h3>
+      <img src="https://github.com/MMax337/ztm_buses/blob/main/readme_images/top_delays.png" width="500" />
+    </td>
+  </tr>
+</table>
 ## Current Features
 
 The package consists of three main functionalities:
